@@ -5,8 +5,8 @@ A Boatload of Mac Management Resources
 # jamf
 Information about jamf.
 
-1. [Enrollment](jamf/1.Enrollment.md)
-2. [Now What?](jamf/2.NowWhat.md)
+1. [Enrollment](Jamf/1.Enrollment.md)
+2. [Now What?](Jamf/2.NowWhat.md)
 
 # Munki
 Information about Munki.

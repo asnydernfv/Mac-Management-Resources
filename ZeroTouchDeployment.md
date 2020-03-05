@@ -6,7 +6,7 @@ Assign the device to a prestage enrollment. Make sure that the name makes sense,
 ## 3. Create smart group
 Create a smart group with the criteria: Enrollment Method: PreStage enrollment is [The name of the prestage enrollment]
 ## 4. Create enrollment script policy
-Create an enrollment script to kick things off. This will be a script in a policy with the trigger set to enrollment complete and the frequency set to once per computer. The below example assumes you're using nomad login, and depnotify. I've included comments for relevent sections. The software I install in my first run script is specific to my enviroment and your needs may be different. I only install the nessecities to keep provisioning quick. Everything else will get installed by munki when it gets installed.
+Create an enrollment script to kick things off. This will be a script in a policy with the trigger set to enrollment complete and the frequency set to once per computer. The below example assumes you're using nomad login, and depnotify. I've included comments for relevent sections. The software I install in my first run script is specific to my enviroment and your needs may be different. I only install the necessities to keep provisioning quick. Everything else will get installed by munki when it gets installed.
 
 ```bash
 #!/bin/bash

@@ -12,7 +12,7 @@ Information about jamf.
 Information about Munki.
 
 # Zero Touch Deployment
-How I do zero touch deployments
+[How I do zero touch deployments](ZeroTouchDeployment.md)
 
 # Automation
 Automation Topics

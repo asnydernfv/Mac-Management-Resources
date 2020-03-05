@@ -65,3 +65,4 @@ sleep 10
 echo "Command: Restart: Your computer will now restart." >> /var/tmp/depnotify.log
 ```
 ## 5. Watch the magic
+Turn on the device, connect to the internet, sit back and relax.

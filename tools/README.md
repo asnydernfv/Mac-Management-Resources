@@ -12,20 +12,21 @@ I couldn't find a github link so I've attached the script [here](../scripts/kext
 ## DEP
 
 ### Splash Screens
-- Splash Buddy
-- Ceremony
-- DEP Notify
+- [Splash Buddy](https://github.com/Shufflepuck/SplashBuddy)
+- [Octory](https://www.octory.io/)
+- [DEP Notify](https://gitlab.com/Mactroll/DEPNotify)
 ### Account Provisioning
-- CreateUserPKG.py
-- nomad Login
+- [pycreateuserpkg](https://github.com/gregneagle/pycreateuserpkg)
+- [nomad Login](https://nomad.menu/category/nomad-login/)
 
 ## "Imaging"
-- autodmg
-- Mac Provisioner
-- Mac Deploy Stick
-- installmacos.py
+- [autodmg](https://github.com/MagerValp/AutoDMG)
+- Mac Provisioner - Reach out to Brent Hayward
+- [Mac Deploy Stick](https://twocanoes.com/products/mac/mac-deploy-stick/)
+- [installmacos.py](https://github.com/munki/macadmin-scripts/blob/master/installinstallmacos.py)
 
 ## Software Deployment
-- munki
-- jamJar
-- outset
+- [munki](https://github.com/munki/munki)
+- [jamJar](https://github.com/dataJAR/jamJAR)
+- [outset](https://github.com/chilcote/outset)
+- [autopkg](https://github.com/autopkg/autopkg)

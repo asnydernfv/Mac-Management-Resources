@@ -30,3 +30,4 @@ I couldn't find a github link so I've attached the script [here](../scripts/kext
 - [jamJar](https://github.com/dataJAR/jamJAR)
 - [outset](https://github.com/chilcote/outset)
 - [autopkg](https://github.com/autopkg/autopkg)
+- [JSSImporter](https://github.com/jssimporter/JSSImporter)
